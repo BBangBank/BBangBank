@@ -1,4 +1,4 @@
-package com.rdrg.back.dto.response;
+package bbang_bank.bank.dto.response;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

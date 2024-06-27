@@ -1,4 +1,4 @@
-package com.rdrg.back.dto.response;
+package bbang_bank.bank.dto.response;
 
 public interface ResponseCode {
     String SUCCESS = "SU";
